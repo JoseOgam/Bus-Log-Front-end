@@ -1,0 +1,14 @@
+/*
+Coded by Joseph
+Author: W3layouts
+Author URL: https://josedev.netlify.com/
+*/
+----------------------------------
+NOTE : Doc
+----------------------------------
+
+Bus Log
+
+this is landing page for a bus ticketing reservation
+
+	
